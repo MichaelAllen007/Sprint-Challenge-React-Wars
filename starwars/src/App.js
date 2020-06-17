@@ -24,7 +24,7 @@ useEffect (() => {
 const Container = styled.div`
 display: flex;
 margin: 0 auto;
-width: 100%
+width: 100%;
 `;
 
 const heading = styled.h1`
